@@ -1,2 +1,2 @@
 # Russian-roulette
-Inspired by the movie 13
+🔫 Inspired by the movie 13 🎞
